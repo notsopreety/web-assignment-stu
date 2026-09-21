@@ -1,2 +1,2 @@
 # web-assignment-stu
-An assignment repo for web programming
+An assignment repo for web programming.
